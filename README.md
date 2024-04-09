@@ -1,10 +1,10 @@
 # Hello, World! 👋
-# About Me
+ About Me
 - 🎓 Pursuing B.Tech in CS
-- 🌱 Learning django,data analysis,SQL
+- 🌱 Learning ##django,##data analysis,##SQL
 - 💻 Working on various projects
 - 🤝 Open to collaborations
-# Contact Me
+ Contact Me
 - 📧 swati356sen@gmail.com
 <!---
 omshi255/omshi255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
