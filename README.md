@@ -1,7 +1,7 @@
 # Hello, World! 👋
  About Me
 - 🎓 Pursuing B.Tech in CS
-- 🌱 Learning ##django,##data analysis,##SQL
+- 🌱 Learning django,data analysis,SQL
 - 💻 Working on various projects
 - 🤝 Open to collaborations
  Contact Me
