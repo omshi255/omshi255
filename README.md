@@ -18,8 +18,8 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 
-<a href="https://linkedin.com/in/swati sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati sen" height="50" width="50" align="center" margin-right="10px" /></a>
-<a href="https://instagram.com/sw_shhr567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw_shhr567" height="50" width="50" align="center" /></a>
+<a href="https://linkedin.com/in/swati sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati sen" height="35" width="40" /></a>
+<a href="https://instagram.com/sw_shhr567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw_shhr567" height="35" width="40" align="center" /></a>
 </p>
 
 
