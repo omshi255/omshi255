@@ -4,7 +4,7 @@
 ## A passionate developer from Indore
 
 ### Connect with me:
-![LinkedIn](https://www.linkedin.com/feed/)
+![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png)
 
 ### Languages and Tools:
 !Python
