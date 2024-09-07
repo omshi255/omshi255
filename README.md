@@ -4,7 +4,7 @@
 ## A passionate developer from Indore
 
 ### Connect with me:
-![LinkedIn](https://www.linkedin.com/in/swati-sen-137aa8269/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBQMWpT7UTJCwoOXetv8IQA%3D%3D)
+![LinkedIn](https://www.linkedin.com/in/swati-sen)
 
 ### Languages and Tools:
 !Python
