@@ -15,10 +15,10 @@
 
 - 📫 How to reach me **swati356sen@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/swati sen" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati sen" height="35" width="40" /></a>
-<a href="https://instagram.com/sw_shhr567" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw_shhr567" height="35" width="40" align="center" /></a>
+<a href="https://instagram.com/sw_shhr567" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw_shhr567" height="35" width="40"  /></a>
 </p>
 
 
