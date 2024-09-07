@@ -1,5 +1,5 @@
 
-# Hi there, I'm osish255 👋
+# Hi there, I'm omshi255 👋
 
 ## A passionate developer from Indore
 
