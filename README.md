@@ -1,66 +1,32 @@
-<h1 align="center">Hi 👋, I'm Swati Sen</h1>
-<h3 align="center">A passionate FullStack Developer from Indore, India 🇮🇳</h3>
+<h1 align="center">👋 Hi , I'm Swati Sen</h1>
+<h3 align="center">A passionate Django Developer From Indore</h3>
 
-- 🔭 I’m currently working on a **MERN project**  
-- 👯 I’m looking to collaborate on **[project name](project link)**  
-- 🤝 I’m looking for **Internships**  
-- 🌱 I’m currently learning **CPP, DSA**  
-- 💬 Ask me about **React.js, Node.js, Python, JavaScript, MongoDB**  
-- 📫 Reach me at **swati356sen@gmail.com**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://port-folio-theta-kohl.vercel.app/)  
-- 📝 [Cover Letter](https://drive.google.com/file/d/1ftVKrk9weMd23Deq38Ixw9cN8u3OxpW6/view?usp=sharing)  
-- 📄 [Resume / Experience](https://drive.google.com/file/d/1wSD8tQQcOv_QtS9AmJ4jmhgG7OpbKML6/view?usp=sharing)  
-- 🏅 1st Rank on Coding Ninjas (college level) | 5th Rank on GFG (college level)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omshi255&label=Profile%20views&color=b40e48&style=flat" alt="omshi255" /> </p>
 
----
+- 🔭 I’m currently working on *Django*
 
-### 🛠️ Languages and Tools
+- 🌱 I’m currently learning *DSA With Python*
 
-#### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript)
+- 👯 I’m looking to collaborate on *Find New Oppturtunities*
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwindcss)
+- 🤝 I’m looking for help with *Internships*
 
-#### 🔙 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=express)
+- 💬 Ask me about *React,Python,Django*
 
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql)
+- 📫 How to reach me *swati356sen@gmail.com*
 
-#### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?&logo=vercel)
-
----
-
-### 📈 GitHub Stats
-
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omshi255&show_icons=true&locale=en" alt="omshi255" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omshi255" alt="omshi255" />
+<a href="https://linkedin.com/in/swati sen" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati sen" height="35" width="40" /></a>
+<a href="https://instagram.com/sw_shhr567" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw_shhr567" height="35" width="40"  /></a>
 </p>
 
----
 
-### 🌍 Connect with Me
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swati-sen-137aa8269/)
-- 🐱 [GitHub](https://github.com/omshi255)
-- 📸 [Instagram](https://www.instagram.com/omi_01sen/?hl=en)
-- 🏅 [HackerRank](https://www.hackerrank.com/profile/omshisen795)
-- 💡 [LeetCode](https://leetcode.com/u/swatisen/)
-- 📚 [GFG](https://www.geeksforgeeks.org/user/omisen452/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshi255&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="omshi255" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omshi255&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="omshi255" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omshi255&theme=dark" alt="omshi255" /></p>
