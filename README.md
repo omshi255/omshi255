@@ -20,27 +20,9 @@
 - 📄 [Resume / Experience](https://drive.google.com/file/d/1wSD8tQQcOv_QtS9AmJ4jmhgG7OpbKML6/view?usp=sharing)
   
 <p align="center">
-  <span style="
-    font-size: 18px;
-    font-weight: bold;
-    color: #ff6f61;
-    animation: glow 1.5s ease-in-out infinite alternate;
-    display: inline-block;
-  ">
-    🏅 1st Rank on Coding Ninjas (college level) | 5th Rank on GFG (college level)
-  </span>
+- 🏅 1st Rank on Coding Ninjas (college level) | 5th Rank on GFG 
 </p>
 
-<style>
-@keyframes glow {
-  from {
-    text-shadow: 0 0 5px #ff6f61, 0 0 10px #ff6f61;
-  }
-  to {
-    text-shadow: 0 0 10px #ff3c3c, 0 0 20px #ff3c3c;
-  }
-}
-</style>
 
 
 <h2 align="center">Connect with me:</h2>
