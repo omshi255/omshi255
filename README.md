@@ -3,17 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omshi255&label=Profile%20views&color=b40e48&style=flat" alt="omshi255" /> </p>
 
-- 🔭 I’m currently working on *Django*
+- 🔭 I’m currently working on *MERN*
 
-- 🌱 I’m currently learning *DSA With Python*
+- 🌱 I’m currently learning *DSA With CPP*
 
 - 👯 I’m looking to collaborate on *Find New Oppturtunities*
 
 - 🤝 I’m looking for help with *Internships*
 
-- 💬 Ask me about *React,Python,Django*
+- 💬 Ask me about *React,Python,Nodejs,Mongodb,Expressjs,Javascript,CSS,SAAS*
 
 - 📫 How to reach me *swati356sen@gmail.com*
+
+  📝 [Cover Letter](https://drive.google.com/file/d/1ftVKrk9weMd23Deq38Ixw9cN8u3OxpW6/view?usp=sharing)
+  
+- 📄 [Resume / Experience](https://drive.google.com/file/d/1wSD8tQQcOv_QtS9AmJ4jmhgG7OpbKML6/view?usp=sharing)
+  
+- 🏅 1st Rank on Coding Ninjas (college level) | 5th Rank on GFG (college level)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
