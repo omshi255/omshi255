@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi , I'm Swati Sen</h1>
-<h3 align="center">A passionate Django Developer From Indore</h3>
+<h3 align="center">A passionate FullStack Developer From Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omshi255&label=Profile%20views&color=b40e48&style=flat" alt="omshi255" /> </p>
 
