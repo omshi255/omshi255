@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omshi255&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="omshi255" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omshi255&theme=dark" alt="omshi255" /></p>
+
