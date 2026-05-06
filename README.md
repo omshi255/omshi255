@@ -12,8 +12,6 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-
 ```yaml
 name        : Swati Sen
 location    : Indore, Madhya Pradesh, India
@@ -27,8 +25,6 @@ achievements:
   - 🏅 5th Rank — GeeksForGeeks
 ```
 
-</div>
-
 ---
 
 ## 🔗 Connect With Me
@@ -38,6 +34,8 @@ achievements:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swati-sen)
 [![Instagram](https://img.shields.io/badge/Instagram-sw__shhr567-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sw_shhr567)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://port-folio-theta-kohl.vercel.app)
+
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-swati356sen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swati356sen@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wSD8tQQcOv_QtS9AmJ4jmhgG7OpbKML6/view?usp=sharing)
@@ -99,11 +97,19 @@ achievements:
 &nbsp;
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshi255&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshi255&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+---
+
+## 🌐 Most Used Languages
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshi255&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&card_width=500" />
 
 </div>
+
+> ⚡ *This chart is auto-generated from my public GitHub repositories*
 
 ---
 
@@ -121,8 +127,9 @@ achievements:
 
 <div align="center">
 
+| | |
+|:---:|:---|
 | 🔭 | Building projects with **MERN Stack** |
-|---|---|
 | 🧠 | Sharpening **DSA skills with C++** |
 | 🤝 | Open to **Internships & Collaborations** |
 | 🚀 | Exploring **AI/ML integrations** with web apps |
@@ -135,7 +142,11 @@ achievements:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omshi255&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
 **⭐ If you like my work, consider giving my repos a star!**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
