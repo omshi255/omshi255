@@ -95,7 +95,7 @@ achievements:
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omshi255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshi255&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=omshi255&theme=tokyonight&hide_border=true" />
 
 </div>
 
